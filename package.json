@@ -1,0 +1,8 @@
+{
+  "name": "MarketLeader",
+  "version": "1.0.0",
+  "description": "Market Leader is a training tool for stocks and index funds",
+  "main": "index.js",
+  "author": "Fernando Serrano",
+  "license": "MIT"
+}
